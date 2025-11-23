@@ -18,7 +18,7 @@ body {
 /* LEFT SIDE */
 .left-pane {
     width: 60%;
-    background-image: url("../img/bg_lg.png");
+    background-image: url("./img/bg_lg.png");
     background-size: cover;
     background-position: center;
 }
@@ -209,3 +209,4 @@ label {
         font-size: 18px;
     }
 }
+
